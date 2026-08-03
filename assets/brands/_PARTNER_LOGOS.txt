@@ -1,0 +1,4 @@
+Partner-Logos hier ablegen (PNG/SVG, transparenter Hintergrund):
+  targobank.png      (Finanzierungspartner TargoBank)
+  wertgarantie.png   (Garantiepartner Wertgarantie)
+Solange kein Logo vorhanden ist, zeigt die Partner-Karte automatisch den Namen als Text.
